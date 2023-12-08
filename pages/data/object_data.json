@@ -1,0 +1,10 @@
+{
+  "name": "Тестовый объект",
+  "adress": "г. Москва",
+  "phone": "9876543210",
+  "email": "test@test.ru",
+  "shift_name": "Тестовая смена",
+  "short_shift_name": "Тс",
+  "shift_start": "06:00",
+  "shift_end": "18:00"
+}
